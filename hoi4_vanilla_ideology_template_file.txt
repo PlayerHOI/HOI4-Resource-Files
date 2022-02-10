@@ -18,7 +18,6 @@ For convinience the file has been sorted alphabetically.
 ##########################################################################################
 ##########################################################################################
 ##########################################################################################
-l_english:
  ADU_YOUR_IDEOLOGY:0 "Andalusia"
  ADU_YOUR_IDEOLOGY_ADJ:0 "Andalusian"
  ADU_YOUR_IDEOLOGY_DEF:0 "Andalusia"
